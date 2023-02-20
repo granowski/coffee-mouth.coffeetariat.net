@@ -1,0 +1,12 @@
+title: Coffee Mouth
+email: granowski@coffeetariat.net
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://coffee-mouth.coffeetariat.net" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: granowski
+github_username: granowski
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
