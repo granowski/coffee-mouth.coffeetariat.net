@@ -5,6 +5,7 @@ date:   2023-02-18 17:38:00 -0500
 categories: post
 ---
 
+### Waking Up
 It's been awhile since I'd practiced any of my personal software adventuring.
 Almost everything I do is for work. Work work work work work!
 Even this site is being generated using a ruby framework, [jekyll](https://www.jekyllrb.com/), a tool my current

@@ -5,6 +5,8 @@ date:   2023-02-19 23:21:00 -0500
 categories: post
 ---
 
+### What happened to all the Anime?
+
 Today I was able to do myself some good and actually get my ass into the gym.
 Reminds me of [Papa Swolio](https://papaswolio.com)...
 When I go to the gym and not doing a weight lifting day, it is most effective

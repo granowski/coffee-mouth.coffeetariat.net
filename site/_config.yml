@@ -6,6 +6,8 @@ url: "https://coffee-mouth.coffeetariat.net" # the base hostname & protocol for 
 twitter_username: granowski
 github_username: granowski
 
+paginate: 3
+
 # Build settings
 theme: minima
 plugins:
